@@ -2,4 +2,4 @@
 This WEB page is designed for learning purposes.
 My purpose was create a small project with fullscreen image in the background. Also i used a little bit of flexbox styling.
 
-Check out the working demo!
+Check out the [working demo](https://ausrabickute.github.io/Fullscreen_image_WEB/)!
